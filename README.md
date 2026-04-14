@@ -54,7 +54,7 @@ Charts were created using ggplot2 to show: Product Category vs Total Revenue. Co
 ![Country vs Total Revenue](Country_vs_Total_Revenue.png)
 ![Gender vs Average Purchase](Gender_vs_Average_Purchase.png)
 ![Top 10 Products by Revenue](Top_10_Products_by_Revenue.png)
-![Distribution of Purchase Amount](Distribution_of_Purchase_Amount.png)
+![Distribution of Customer_Purchase Amount](Distribution_of_Customer_Purchase_Amount.png)
 
 # Conclusion and Recommndation
 This analysis demonstrates how data cleaning and exploratory analysis can reveal meaningful business insights.
